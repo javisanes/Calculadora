@@ -1,12 +1,12 @@
 // ---- Accede a la calculadora --------------------
 
 function calculadora() {
-    var num1 = parseInt(prompt("Introduce el primer operando"));
-    var num2 = parseInt(prompt("Introduce el segundo operando"))
-    var suma = (num1) + (num2);
-    var resta = num1 - num2;
-    var producto = num1 * num2;
-    var divide = num1 / num2;
+    let num1 = parseInt(prompt("Introduce el primer operando"));
+    num2 = parseInt(prompt("Introduce el segundo operando"))
+    suma = (num1) + (num2);
+    resta = num1 - num2;
+    producto = num1 * num2;
+    divide = num1 / num2;
 
 // ---- Mostramos los resultados obtenidos por la calculadora --------------
 
