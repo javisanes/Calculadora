@@ -7,6 +7,9 @@ function calculadora() {
     var resta = num1 - num2;
     var producto = num1 * num2;
     var divide = num1 / num2;
+
+// ---- Mostramos los resultados obtenidos por la calculadora --------------
+
 alert("La suma de los operandos es " + suma);
 alert("La resta de los operandos es " + resta)
 alert("La multiplicación de los operandos es " + producto)
